@@ -1,4 +1,4 @@
-The Bogey-Beast test - Update 1
+﻿The Bogey-Beast test - Update 1
 The Bogey-Beast is a delightful fairy tale about how luck is all relative. From English Fairy Tales, retold by Flora Annie Steel (1922), illustrated by Arthur Rackham. This story is featured in Children's Stories.
 An illustration for the story The Bogey-Beast by the author 
 There was once a woman who was very, very cheerful, though she had little to make her so; for she was old, and poor, and lonely. She lived in a little bit of a cottage and earned a scant living by running errands for her neighbours, getting a bite here, a sup there, as reward for her services. So she made shift to get on, and always looked as spry and cheery as if she had not a want in the world.
@@ -29,9 +29,7 @@ She stared at it, and rubbed her eyes, and stared at it again.
 
 "Well! I never!" she said at last. "And me thinking it was a pot of gold! I must have been dreaming. But this is luck! Silver is far less trouble—easier to mind, and not so easy stolen. Them gold pieces would have been the death o' me, and with this great lump of silver—"
 
-Update done by user 2 and edited
-
-So she went off again planning what she would do, and feeling as rich as rich, until becoming a bit tired again she stopped to rest and gave a look round to see if her treasure was safe; and she saw nothing but a great lump of iron!
+Update done by user 1 So she went off again planning what she would do, and feeling as rich as rich, until becoming a bit tired again she stopped to rest and gave a look round to see if her treasure was safe; and she saw nothing but a great lump of iron!
 
 "Well! I never!" says she again. "And I mistaking it for silver! I must have been dreaming. But this is luck! It's real convenient. I can get penny pieces for old iron, and penny pieces are a deal handier for me than your gold and silver. Why! I should never have slept a wink for fear of being robbed. But a penny piece comes in useful, and I shall sell that iron for a lot and be real rich—rolling rich."
 
